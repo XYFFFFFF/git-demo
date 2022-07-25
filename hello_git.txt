@@ -4,4 +4,11 @@ hello, baidu~
 hello, baidu~
 hello, baidu~
 hello, baidu~
+
 This is master branch!
+This is hot-fix branch!
+
+
+
+How to merge the file!
+
