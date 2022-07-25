@@ -5,3 +5,7 @@ hello, baidu~
 hello, baidu~
 hello, baidu~
 This is hot-fix branch!
+
+
+
+How to merge the file!
